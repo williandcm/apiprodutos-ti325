@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "SABONETE",
+    "quantidade": 5,
+    "preco": 7.99,
+    "total": 39.95
+  },
+  {
+    "nome": "DESODORANTE",
+    "quantidade": 5,
+    "preco": 7.99,
+    "total": 39.95
+  },
+  {
+    "codigo": 101,
+    "nome": "DESODORANTE",
+    "quantidade": 5,
+    "preco": 7.99,
+    "total": 39.95
+  }
+]
